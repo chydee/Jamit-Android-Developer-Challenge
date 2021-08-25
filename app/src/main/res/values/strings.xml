@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jamit Android Developer Challenge</string>
+    <string name="play_audio_btn_text">Play Audio</string>
+    <string name="welcome_text">Welcome\n\n Click The Button Below To Play Audio</string>
+    <string name="audio_status_text_playing">Audio is %1$s</string>
+    <string name="audio_status_text_stopped">Audio has stopped playing</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="play">Play</string>
+    <string name="theme_day">Day</string>
+    <string name="theme_night">Night</string>
+</resources>
